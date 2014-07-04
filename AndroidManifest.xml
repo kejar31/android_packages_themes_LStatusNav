@@ -16,14 +16,14 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.cyanogenmod.gummy.holo">
+    package="org.cyanogenmod.gummy.gold">
 
-    <uses-feature android:required="true" android:name="org.cyanogenmod.gummy.holo" />
+    <uses-feature android:required="true" android:name="org.cyanogenmod.gummy.gold" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Holo Gummy">
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Gold Gummy">
     </application>
 
-    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Holo Gummy"/>
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Gold Gummy"/>
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="hedwig34" />
 
 </manifest>

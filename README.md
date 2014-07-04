@@ -1,7 +1,7 @@
-Orange Gummy
+Gold Gummy
 ========================
-A holo orange theme for Gummy
-
+A holo gold theme for Gummy
+Based on my old Vegas Gold theme
 ## AndroidManifest.xml
 
 There are several entries in addition to the standard Android package information that must be present in your manifest for your theme to behave as expected. All of the following should be inside the main `<manifest></manifest>` tags.

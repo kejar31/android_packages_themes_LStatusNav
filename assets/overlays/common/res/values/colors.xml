@@ -24,26 +24,26 @@
 
     <!-- main theme colors -->
     <!-- holo_blue_light -->
-    <color name="theme_maincolor_light">#ff33b5e5</color>
+    <color name="theme_maincolor_light">#ffc5b358</color>
     <!-- holo_blue_dark -->
-    <color name="theme_maincolor_dark">#ff0099cc</color>
+    <color name="theme_maincolor_dark">#ff6f601b</color>
     <!-- holo_blue_bright -->
-    <color name="theme_maincolor_bright">#ff00ddff</color>
+    <color name="theme_maincolor_bright">#ffdbc76b</color>
 
     <!-- holo_blue_light transparent 33-->
-    <color name="theme_maincolor_light_33">#3333b5e5</color>
+    <color name="theme_maincolor_light_33">#33c5b358</color>
 
     <!-- holo_blue_light transparent 66-->
-    <color name="theme_maincolor_light_66">#6633b5e5</color>
+    <color name="theme_maincolor_light_66">#66c5b358</color>
 
     <!-- holo_blue_light transparent 99-->
-    <color name="theme_maincolor_light_99">#9933b5e5</color>
+    <color name="theme_maincolor_light_99">#99c5b358</color>
 
     <!-- holo_blue_dark transparent 67 -->
-    <color name="theme_maincolor_dark_67">#670099cc</color>
+    <color name="theme_maincolor_dark_67">#676f601b</color>
 
     <!-- holo_blue_dark transparent cc -->
-    <color name="theme_maincolor_dark_cc">#cc0099cc</color>
+    <color name="theme_maincolor_dark_cc">#cc6f601b</color>
 
 </resources>
 

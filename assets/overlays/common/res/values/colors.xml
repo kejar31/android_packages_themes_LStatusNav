@@ -36,6 +36,9 @@
     <!-- holo_blue_light transparent 66-->
     <color name="theme_maincolor_light_66">#6633b5e5</color>
 
+    <!-- holo_blue_light transparent 99-->
+    <color name="theme_maincolor_light_99">#9933b5e5</color>
+
     <!-- holo_blue_dark transparent 67 -->
     <color name="theme_maincolor_dark_67">#670099cc</color>
 

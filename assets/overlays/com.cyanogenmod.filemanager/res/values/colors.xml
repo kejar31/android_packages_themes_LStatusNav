@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="blue_transparent">@*common:color/theme_maincolor_light_99</color>
+
+</resources>

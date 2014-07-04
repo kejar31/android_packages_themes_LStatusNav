@@ -20,7 +20,7 @@
     <color name="holo_blue_bright">@*common:color/theme_maincolor_bright</color>
     <color name="holo_blue_dark">@*common:color/theme_maincolor_dark</color>
     <color name="holo_blue_light">@*common:color/theme_maincolor_light</color>
-    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_bg">@*common:color/theme_maincolor_light_33</drawable>
 
     <!-- Keyguard colors -->
     <color name="keyguard_avatar_frame_pressed_color">@*common:color/theme_maincolor_light</color>

@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright 2013 SlimRoms Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+
+<resources>
+
+    <!-- Color of the text describing an unconsumed voicemail. -->
+    <color name="call_log_voicemail_highlight_color">@*common:color/theme_maincolor_light</color>
+
+    <!-- Colour of voicemail progress bar to the left of position indicator. -->
+    <color name="voicemail_playback_seek_bar_already_played">@*common:color/theme_maincolor_bright</color>
+
+    <!-- Standard color for selected items. -->
+    <color name="item_selected">@*common:color/theme_maincolor_light_66</color>
+
+    <!-- Colors for incoming and outgoing calls in the call statistics -->
+    <color name="call_stats_incoming">@*common:color/theme_maincolor_light</color>
+
+</resources>

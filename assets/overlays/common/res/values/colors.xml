@@ -30,5 +30,8 @@
     <!-- holo_blue_bright -->
     <color name="theme_maincolor_bright">#ff00ddff</color>
 
+    <!-- holo_blue_light transparent 66-->
+    <color name="theme_maincolor_light_66">#6633b5e5</color>
+
 </resources>
 

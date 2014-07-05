@@ -44,4 +44,11 @@
     <color name="call_log_header_color">@*common:color/theme_maincolor_light</color>
     <color name="call_log_voicemail_status_action_text_color">@*common:color/theme_maincolor_light</color>
 
+    <!-- In-call UI -->
+    <color name="incall_secondary_info_background">@*common:color/theme_maincolor_light_70</color> <!-- semitransparent blueish grey -->
+    <!-- Color of the theme of the People app -->
+    <color name="people_app_theme_color">@*common:color/theme_maincolor_light</color>
+    <!-- Background color of action bars -->
+    <color name="actionbar_background_color">@*common:color/theme_maincolor_bright</color>
+
 </resources>

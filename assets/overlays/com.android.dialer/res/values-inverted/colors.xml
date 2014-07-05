@@ -28,4 +28,9 @@
     <!-- Colors for incoming and outgoing calls in the call statistics -->
     <color name="call_stats_incoming">@*common:color/theme_maincolor_light</color>
 
+    <!-- In-call UI -->
+    <color name="incall_secondary_info_background">@*common:color/theme_maincolor_light_70</color> <!-- semitransparent blueish grey -->
+    <!-- Color of the theme of the People app -->
+    <color name="people_app_theme_color">@*common:color/theme_maincolor_light</color>
+
 </resources>

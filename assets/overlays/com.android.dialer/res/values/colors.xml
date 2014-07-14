@@ -34,21 +34,21 @@
     <!-- Primary color of dialpad text, including the call button -->
     <color name="dialpad_primary_text_color">@*common:color/theme_maincolor_light</color>
 	<!-- Call button color separated from dialpad_primary_text_color, for better theme support -->
-    <color name="dialpad_call_button_color">@*common:color/theme_maincolor_light</color>
+    <color name="dialpad_call_button_color">@*common:color/theme_maincolor_dark</color>
 
     <!-- Colors for incoming and outgoing calls in the call statistics -->
     <color name="call_stats_incoming">@*common:color/theme_maincolor_light</color>
     <color name="call_stats_outgoing">#99cc00</color>
 
     <!-- New Colors for Theme Chooser to be compatible -->
-    <color name="call_log_header_color">@*common:color/theme_maincolor_light</color>
+    <color name="call_log_header_color">@*common:color/theme_maincolor_dark</color>
     <color name="call_log_voicemail_status_action_text_color">@*common:color/theme_maincolor_light</color>
 
     <!-- Color of the underline for a tab which is selected. -->
-    <color name="tab_underline_selected_color">@*common:color/theme_maincolor_light</color>
+    <color name="tab_underline_selected_color">@*common:color/theme_maincolor_dark</color>
 
     <!-- Color of the selection indicator for a tab which is selected. -->
-    <color name="tab_selected_color">@*common:color/theme_maincolor_light</color>
+    <color name="tab_selected_color">@*common:color/theme_maincolor_dark</color>
 
     <!-- Underline color of action bars.  Ensure this stays in sync with packages/Telephony
          actionbar_underline. -->
@@ -59,6 +59,6 @@
     <!-- Color of the theme of the People app -->
     <color name="people_app_theme_color">@*common:color/theme_maincolor_light</color>
     <!-- Background color of action bars -->
-    <color name="actionbar_background_color">@*common:color/theme_maincolor_bright</color>
+    <color name="actionbar_background_color">@*common:color/theme_maincolor_dark</color>
 
 </resources>

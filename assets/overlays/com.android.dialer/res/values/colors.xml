@@ -44,6 +44,16 @@
     <color name="call_log_header_color">@*common:color/theme_maincolor_light</color>
     <color name="call_log_voicemail_status_action_text_color">@*common:color/theme_maincolor_light</color>
 
+    <!-- Color of the underline for a tab which is selected. -->
+    <color name="tab_underline_selected_color">@*common:color/theme_maincolor_light</color>
+
+    <!-- Color of the selection indicator for a tab which is selected. -->
+    <color name="tab_selected_color">@*common:color/theme_maincolor_light</color>
+
+    <!-- Underline color of action bars.  Ensure this stays in sync with packages/Telephony
+         actionbar_underline. -->
+    <color name="actionbar_underline">@*common:color/theme_maincolor_dark</color>
+
     <!-- In-call UI -->
     <color name="incall_secondary_info_background">@*common:color/theme_maincolor_light_70</color> <!-- semitransparent blueish grey -->
     <!-- Color of the theme of the People app -->

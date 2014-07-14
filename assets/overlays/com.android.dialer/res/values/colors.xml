@@ -34,7 +34,7 @@
     <!-- Primary color of dialpad text, including the call button -->
     <color name="dialpad_primary_text_color">@*common:color/theme_maincolor_light</color>
 	<!-- Call button color separated from dialpad_primary_text_color, for better theme support -->
-    <color name="dialpad_call_button_color">@*common:color/theme_maincolor_dark</color>
+    <color name="dialpad_call_button_color">@*common:color/theme_maincolor_light</color>
 
     <!-- Colors for incoming and outgoing calls in the call statistics -->
     <color name="call_stats_incoming">@*common:color/theme_maincolor_light</color>
@@ -59,6 +59,6 @@
     <!-- Color of the theme of the People app -->
     <color name="people_app_theme_color">@*common:color/theme_maincolor_light</color>
     <!-- Background color of action bars -->
-    <color name="actionbar_background_color">@*common:color/theme_maincolor_dark</color>
+    <color name="actionbar_background_color">@*common:color/theme_maincolor_light</color>
 
 </resources>

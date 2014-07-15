@@ -25,16 +25,9 @@
     <!-- Standard color for selected items. -->
     <color name="item_selected">@*common:color/theme_maincolor_light_66</color>
 
-    <!-- Background color of new dialpad -->
-    <color name="background_dialpad">#f2020709</color>
-
-    <!-- Background color where keypad digits are displayed -->
-    <color name="background_digits_dialpad">#f2020709</color>
-
     <!-- Primary color of dialpad text, including the call button -->
     <color name="dialpad_primary_text_color">@*common:color/theme_maincolor_light</color>
 	<!-- Call button color separated from dialpad_primary_text_color, for better theme support -->
-    <color name="dialpad_call_button_color">@*common:color/theme_maincolor_light</color>
 
     <!-- Colors for incoming and outgoing calls in the call statistics -->
     <color name="call_stats_incoming">@*common:color/theme_maincolor_light</color>
